@@ -2,4 +2,7 @@ This is my first test.
 
 Add a sentence to file1.
 changes for pushing to github
-changes not committed
+changes not pushed before
+
+changes conflicts
+
